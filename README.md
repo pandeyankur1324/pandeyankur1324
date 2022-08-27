@@ -1,4 +1,4 @@
-<h1 align="center"> Hey there<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29">, I'm Ankur.
+<h1 align="center"><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29">Hey there, I'm Ankur.
 
 <h3> 👨🏻‍💻 About Me </h3>
   
