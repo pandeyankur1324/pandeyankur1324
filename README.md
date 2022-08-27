@@ -44,8 +44,8 @@
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pandeyankur1324&theme=radical&show_icons=true" />
-  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pandeyankur1324&theme=radical&layout=compact" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=pandeyankur1324&theme=radical&show_icons=true" />
+  <img align="right" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pandeyankur1324&theme=radical&layout=compact" />
 </a>
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
