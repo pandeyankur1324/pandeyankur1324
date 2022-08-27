@@ -26,3 +26,9 @@
 - <a href="https://www.twitter.com/pandeyankur1324/"><img src="https://img.shields.io/badge/twitter%20@pandeyankur1324-0D95E8?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 - <a href="https://www.linkedin.com/in/pandeyankur1324/"><img src="https://img.shields.io/badge/linkedin%20@pandeyankur1324-c14438?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 - <a href="https://ankurpandey.netlify.app/"><img height="30px" src="https://img.shields.io/badge/My%20Website:%20ankurpandey.app-8E2DE2?style=for-the-badge&logo=google%20chrome&logoColor=white"/></a>
+  
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+![github stats](https://github-readme-stats.vercel.app/api?username=pandeyankur1324&show_icons=true)
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
