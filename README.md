@@ -1,5 +1,6 @@
 <h2> Hey there<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29">, I'm Ankur.
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="350"/>
+
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="400"/>
 
 <h3> 👨🏻‍💻 About Me </h3>
 
@@ -21,6 +22,6 @@
 
 <br>
 
-- <a href="https://www.instagram.com/pandeyankur1324/"><img src="https://img.shields.io/badge/instagram%20@pandeyankur1324-DD2476?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-- <a href="https://www.twitter.com/pandeyankur1324/"><img src="https://img.shields.io/badge/twitter%20@pandeyankur1324-0D95E8?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-- <a href="https://ankurpandey.netlify.app/"><img height="30px" src="https://img.shields.io/badge/My%20Website:%20ankurpandey.app-8E2DE2?style=for-the-badge&logo=google%20chrome&logoColor=white"/></a>
+<a href="https://www.instagram.com/pandeyankur1324/"><img src="https://img.shields.io/badge/instagram%20@pandeyankur1324-DD2476?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="https://www.twitter.com/pandeyankur1324/"><img src="https://img.shields.io/badge/twitter%20@pandeyankur1324-0D95E8?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+<a href="https://ankurpandey.netlify.app/"><img height="30px" src="https://img.shields.io/badge/My%20Website:%20ankurpandey.app-8E2DE2?style=for-the-badge&logo=google%20chrome&logoColor=white"/></a>
