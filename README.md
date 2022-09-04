@@ -2,7 +2,9 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
   
-  <img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
+ <br>
+<img alt="Coder GIF" height=250 width=350 src="https://physicsgurukul.files.wordpress.com/2019/02/character-1.gif" />
+<br>
 
 - 🔭 &nbsp; I’m currently learning Full Stack Development
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
