@@ -2,9 +2,7 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
   
- <br>
-<img alt="Coder GIF" height=250 width=350 src="https://physicsgurukul.files.wordpress.com/2019/02/character-1.gif" />
-<br>
+<img align="right" alt="Coder GIF" height=250 width=350 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
 
 - 🔭 &nbsp; I’m currently learning Full Stack Development
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
@@ -45,10 +43,14 @@
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 
+<br>
+<div>
 <a href="https://github.com/pandeyankur1324">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=pandeyankur1324&theme=radical&show_icons=true" />
   <img align="right" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pandeyankur1324&theme=radical&layout=compact" />
 </a>
+<div/>
+<br>
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 
