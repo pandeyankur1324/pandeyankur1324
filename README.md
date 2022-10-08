@@ -45,8 +45,8 @@
 
 <a href="https://github.com/pandeyankur1324">
   <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pandeyankur1324&show_icons=true&theme=tokyonight_duo" alt="Ankur's GitHub Stats"></p> 
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=pandeyankur1324&theme=radical&show_icons=true" />
-  <img align="right" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pandeyankur1324&theme=radical&layout=compact" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=pandeyankur1324&theme=tokyonight&show_icons=true" />
+  <img align="right" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pandeyankur1324&theme=tokyonight&layout=compact" />
 
 </a>
 
